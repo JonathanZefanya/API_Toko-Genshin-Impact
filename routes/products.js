@@ -21,20 +21,19 @@ const enrichProductWithCategory = (product) => {
 router.get("/", (req, res) => {
   const { categoryId, isFiatured } = req.query;
 
-  // Enrich all products with category data
   let filteredProducts = products.map(enrichProductWithCategory);
 
-  // Filter by categoryId
+  // Filter berdasarkan categoryId
   if (categoryId) {
     filteredProducts = filteredProducts.filter(
-      (product) => product.category.id === categoryId
+      (prodak) => prodak.category.id === categoryId
     );
   }
 
-  // Filter by isFiatured
+  // Filter berdasarkan isFiatured
   if (isFiatured) {
     filteredProducts = filteredProducts.filter(
-      (product) => product.isFiatured === (isFiatured === "true")
+      (prodak) => prodak.isFiatured === (isFiatured === "true")
     );
   }
 
