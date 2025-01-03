@@ -1,0 +1,218 @@
+[
+  {
+    "id": "2",
+    "name": "Blessing of the Welkin Moon",
+    "price": "62000",
+    "category": {
+      "id": "2",
+      "name": "Blessing",
+      "banner": {
+        "id": "2",
+        "label": "Banner 2",
+        "imageUrl": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1634025439/01ga8c39pkh0494msgkttencaw.jpg"
+      }
+    },
+    "isFiatured": true,
+    "images": [
+      {
+        "id": "img1",
+        "url": "https://blue.kumparan.com/image/upload/fl_progressive,fl_lossy,c_fill,q_auto:best,w_640/v1634025439/01ga8c39pkh0494msgkttencaw.jpg"
+      }
+    ]
+  },
+
+  {
+    "id": "3",
+    "name": "Genesis Crystal 160",
+    "price": "16000",
+    "category": {
+      "id": "1",
+      "name": "Genesis Crystal",
+      "banner": {
+        "id": "1",
+        "label": "Genesis Crystal",
+        "imageUrl": "https://staticg.sportskeeda.com/editor/2021/11/e8c52-16366749020446-1920.jpg"
+      }
+    },
+    "isFiatured": true,
+    "images": [
+      {
+        "id": "img1",
+        "url": "https://th.bing.com/th/id/OIP.7dsQisKvF6o_tC73kFJGowAAAA?w=180&h=180&rs=1&pid=ImgDetMain",
+        "ulr": "https://th.bing.com/th/id/OIP.7dsQisKvF6o_tC73kFJGowAAAA?w=180&h=180&rs=1&pid=ImgDetMain"
+      },
+      {
+        "id": "img2",
+        "url": "https://staticg.sportskeeda.com/editor/2021/11/e8c52-16366749020446-1920.jpg",
+        "ulr": "https://staticg.sportskeeda.com/editor/2021/11/e8c52-16366749020446-1920.jpg"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Genesis Crystal 330",
+    "price": "33000",
+    "category": {
+      "id": "1",
+      "name": "Genesis Crystal",
+      "banner": {
+        "id": "1",
+        "label": "Genesis Crystal",
+        "imageUrl": "https://staticg.sportskeeda.com/editor/2021/11/e8c52-16366749020446-1920.jpg"
+      }
+    },
+    "isFiatured": true,
+    "images": [
+      {
+        "id": "img1",
+        "url": "https://th.bing.com/th/id/OIP.7dsQisKvF6o_tC73kFJGowAAAA?w=180&h=180&rs=1&pid=ImgDetMain",
+        "ulr": "https://th.bing.com/th/id/OIP.7dsQisKvF6o_tC73kFJGowAAAA?w=180&h=180&rs=1&pid=ImgDetMain"
+      },
+      {
+        "id": "img2",
+        "url": "https://staticg.sportskeeda.com/editor/2021/11/e8c52-16366749020446-1920.jpg",
+        "ulr": "https://staticg.sportskeeda.com/editor/2021/11/e8c52-16366749020446-1920.jpg"
+      }
+    ]
+  },
+
+  {
+    "id": "5",
+    "name": "Genesis Crystal 560",
+    "price": "56000",
+    "category": {
+      "id": "1",
+      "name": "Genesis Crystal",
+      "banner": {
+        "id": "1",
+        "label": "Genesis Crystal",
+        "imageUrl": "https://staticg.sportskeeda.com/editor/2021/11/e8c52-16366749020446-1920.jpg"
+      }
+    },
+    "isFiatured": true,
+    "images": [
+      {
+        "id": "img1",
+        "url": "https://th.bing.com/th/id/OIP.7dsQisKvF6o_tC73kFJGowAAAA?w=180&h=180&rs=1&pid=ImgDetMain",
+        "ulr": "https://th.bing.com/th/id/OIP.7dsQisKvF6o_tC73kFJGowAAAA?w=180&h=180&rs=1&pid=ImgDetMain"
+      },
+      {
+        "id": "img2",
+        "url": "https://staticg.sportskeeda.com/editor/2021/11/e8c52-16366749020446-1920.jpg",
+        "ulr": "https://staticg.sportskeeda.com/editor/2021/11/e8c52-16366749020446-1920.jpg"
+      }
+    ]
+  },
+
+  {
+    "id": "6",
+    "name": "Genesis Crystal 980",
+    "price": "98000",
+    "category": {
+      "id": "1",
+      "name": "Genesis Crystal",
+      "banner": {
+        "id": "1",
+        "label": "Genesis Crystal",
+        "imageUrl": "https://staticg.sportskeeda.com/editor/2021/11/e8c52-16366749020446-1920.jpg"
+      }
+    },
+    "isFiatured": true,
+    "images": [
+      {
+        "id": "img1",
+        "url": "https://th.bing.com/th/id/OIP.7dsQisKvF6o_tC73kFJGowAAAA?w=180&h=180&rs=1&pid=ImgDetMain",
+        "ulr": "https://th.bing.com/th/id/OIP.7dsQisKvF6o_tC73kFJGowAAAA?w=180&h=180&rs=1&pid=ImgDetMain"
+      },
+      {
+        "id": "img2",
+        "url": "https://staticg.sportskeeda.com/editor/2021/11/e8c52-16366749020446-1920.jpg",
+        "ulr": "https://staticg.sportskeeda.com/editor/2021/11/e8c52-16366749020446-1920.jpg"
+      }
+    ]
+  },
+
+  {
+    "id": "7",
+    "name": "Genesis Crystal 1980",
+    "price": "198000",
+    "category": {
+      "id": "1",
+      "name": "Genesis Crystal",
+      "banner": {
+        "id": "1",
+        "label": "Genesis Crystal",
+        "imageUrl": "https://staticg.sportskeeda.com/editor/2021/11/e8c52-16366749020446-1920.jpg"
+      }
+    },
+    "isFiatured": true,
+    "images": [
+      {
+        "id": "img1",
+        "url": "https://th.bing.com/th/id/OIP.7dsQisKvF6o_tC73kFJGowAAAA?w=180&h=180&rs=1&pid=ImgDetMain",
+        "ulr": "https://th.bing.com/th/id/OIP.7dsQisKvF6o_tC73kFJGowAAAA?w=180&h=180&rs=1&pid=ImgDetMain"
+      },
+      {
+        "id": "img2",
+        "url": "https://staticg.sportskeeda.com/editor/2021/11/e8c52-16366749020446-1920.jpg",
+        "ulr": "https://staticg.sportskeeda.com/editor/2021/11/e8c52-16366749020446-1920.jpg"
+      }
+    ]
+  },
+  
+  {
+    "id": "8",
+    "name": "Genesis Crystal 3280",
+    "price": "328000",
+    "category": {
+      "id": "1",
+      "name": "Genesis Crystal",
+      "banner": {
+        "id": "1",
+        "label": "Genesis Crystal",
+        "imageUrl": "https://staticg.sportskeeda.com/editor/2021/11/e8c52-16366749020446-1920.jpg"
+      }
+    },
+    "isFiatured": true,
+    "images": [
+      {
+        "id": "img1",
+        "url": "https://th.bing.com/th/id/OIP.7dsQisKvF6o_tC73kFJGowAAAA?w=180&h=180&rs=1&pid=ImgDetMain",
+        "ulr": "https://th.bing.com/th/id/OIP.7dsQisKvF6o_tC73kFJGowAAAA?w=180&h=180&rs=1&pid=ImgDetMain"
+      },
+      {
+        "id": "img2",
+        "url": "https://staticg.sportskeeda.com/editor/2021/11/e8c52-16366749020446-1920.jpg",
+        "ulr": "https://staticg.sportskeeda.com/editor/2021/11/e8c52-16366749020446-1920.jpg"
+      }
+    ]
+  },
+
+  {
+    "id": "9",
+    "name": "Genesis Crystal 6480",
+    "price": "648000",
+    "category": {
+      "id": "1",
+      "name": "Genesis Crystal",
+      "banner": {
+        "id": "1",
+        "label": "Genesis Crystal",
+        "imageUrl": "https://staticg.sportskeeda.com/editor/2021/11/e8c52-16366749020446-1920.jpg"
+      }
+    },
+    "isFiatured": true,
+    "images": [
+      {
+        "id": "img1",
+        "url": "https://th.bing.com/th/id/OIP.7dsQisKvF6o_tC73kFJGowAAAA?w=180&h=180&rs=1&pid=ImgDetMain",
+        "ulr": "https://th.bing.com/th/id/OIP.7dsQisKvF6o_tC73kFJGowAAAA?w=180&h=180&rs=1&pid=ImgDetMain"
+      },
+      {
+        "id": "img2",
+        "url": "https://staticg.sportskeeda.com/editor/2021/11/e8c52-16366749020446-1920.jpg",
+        "ulr": "https://staticg.sportskeeda.com/editor/2021/11/e8c52-16366749020446-1920.jpg"
+      }
+    ]
+  }
+]

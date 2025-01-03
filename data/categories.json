@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "name": "Genesis Crystal",
+    "banner": {
+      "id": "1",
+      "label": "Genesis Crystal",
+      "imageUrl": "https://staticg.sportskeeda.com/editor/2021/11/e8c52-16366749020446-1920.jpg"
+    }
+  },
+  {
+    "id": "2",
+    "name": "Blessing",
+    "banner": {
+      "id": "2",
+      "label": "Blessing",
+      "imageUrl": "https://th.bing.com/th/id/OIP.kG2iEMzBEuT0mkf4ClS65AAAAA?rs=1&pid=ImgDetMain"
+    }
+  }
+]
