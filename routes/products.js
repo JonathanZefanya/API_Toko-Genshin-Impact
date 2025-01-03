@@ -6,9 +6,10 @@ const categories = require("../data/categories.json");
 // Helper function to enrich product with category data
 const enrichProductWithCategory = (product) => {
   if (!product.category || !product.category.id) {
-    return product; // Jika category tidak valid, kembalikan produk apa adanya
+    return product;
   }
 
+  // Cari kategori berdasarkan ID
   const category = categories.find((cat) => cat.id === product.category.id);
   if (category) {
     product.category = category;
@@ -16,11 +17,11 @@ const enrichProductWithCategory = (product) => {
   return product;
 };
 
-
-// GET all products (with optional query params)
+// GET all products with optional filters
 router.get("/", (req, res) => {
   const { categoryId, isFiatured } = req.query;
 
+  // Enrich all products with category data
   let filteredProducts = products.map(enrichProductWithCategory);
 
   // Filter by categoryId
