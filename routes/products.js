@@ -18,7 +18,7 @@ const enrichProductWithCategory = (product) => {
 };
 
 // GET all products with optional filters
-router.get("/", (res, res) => {
+router.get("/", (req, res) => {
   const { categoryId, isFiatured } = req.query;
 
   let filteredProducts = products.map(enrichProductWithCategory);
