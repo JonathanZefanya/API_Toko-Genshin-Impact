@@ -26,7 +26,7 @@ router.get("/", (req, res) => {
   // Filter berdasarkan categoryId
   if (categoryId) {
     filteredProducts = filteredProducts.filter(
-      (prodak) => prodak.category.id === categoryId
+      (prodak) => prodak.category.id === category.id
     );
   }
 
